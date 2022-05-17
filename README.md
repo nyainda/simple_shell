@@ -124,7 +124,7 @@ $
 #### About
 All files were created and compiled on `Ubuntu 20.04 LTS` using `GCC 4.8.4` with the following flags: `-Wall -Werror -Wextra -pedantic`
 
-### ### Authors
+### Authors
 * [Oyugi](https://github.com/nyainda)
 * [JSan](https://github.com/JudahSan)
 
