@@ -124,6 +124,10 @@ $
 #### About
 All files were created and compiled on `Ubuntu 20.04 LTS` using `GCC 4.8.4` with the following flags: `-Wall -Werror -Wextra -pedantic`
 
+### ### Authors
+* John Mzee [Github](https://github.com/nyainda)
+* Derrick Mayiku Locha [Github](https://github.com/JudahSan)
+
 ## Tasks
 
 ### 0. Betty would be proud
